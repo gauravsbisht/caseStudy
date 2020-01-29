@@ -1,2 +1,2 @@
 # caseStudy
-LendingClubCaseStudy
+This Assigment intends to study and conclude LendingClubCaseStudy
